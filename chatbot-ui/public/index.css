@@ -1,0 +1,6 @@
+.messages{
+    background: red;
+}
+.messages .messages-content{
+    color:white;
+}
